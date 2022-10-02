@@ -13,3 +13,5 @@ pydocstyle==3.0.0
 requests==2.20.0
 Sphinx==1.8.2
 Werkzeug==0.14.1
+gitpython>=3.1.27 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
